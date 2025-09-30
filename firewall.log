@@ -1,0 +1,137 @@
+2025-10-01 00:25:01,622 - INFO - Loading AI model...
+2025-10-01 00:25:02,777 - INFO - 
+🚀 Starting AI Firewall...
+2025-10-01 00:25:02,778 - INFO - 📡 Detected active interface: Wi-Fi
+2025-10-01 00:25:02,778 - INFO - 🛑 Press Ctrl+C to stop
+
+2025-10-01 00:25:11,427 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:25:11,592 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:25:11,613 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:25:11,754 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:25:11,762 - WARNING - MALICIOUS traffic detected from 10.146.218.208
+2025-10-01 00:25:11,913 - ERROR - Failed to block IP: 10.146.218.208. Make sure you're running as Administrator.
+2025-10-01 00:25:11,921 - WARNING - MALICIOUS traffic detected from 10.146.218.208
+2025-10-01 00:25:12,063 - ERROR - Failed to block IP: 10.146.218.208. Make sure you're running as Administrator.
+2025-10-01 00:25:12,069 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:25:12,210 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:25:12,220 - WARNING - MALICIOUS traffic detected from 35.223.238.178
+2025-10-01 00:25:12,365 - ERROR - Failed to block IP: 35.223.238.178. Make sure you're running as Administrator.
+2025-10-01 00:25:12,460 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:25:12,609 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:25:12,613 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:25:12,760 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:25:12,766 - WARNING - MALICIOUS traffic detected from 10.146.218.208
+2025-10-01 00:25:12,930 - ERROR - Failed to block IP: 10.146.218.208. Make sure you're running as Administrator.
+2025-10-01 00:25:12,934 - WARNING - MALICIOUS traffic detected from 10.146.218.208
+2025-10-01 00:25:13,075 - ERROR - Failed to block IP: 10.146.218.208. Make sure you're running as Administrator.
+2025-10-01 00:25:13,089 - WARNING - MALICIOUS traffic detected from 35.223.238.178
+2025-10-01 00:25:13,243 - ERROR - Failed to block IP: 35.223.238.178. Make sure you're running as Administrator.
+2025-10-01 00:25:14,307 - WARNING - MALICIOUS traffic detected from 192.34.20.166
+2025-10-01 00:25:14,460 - ERROR - Failed to block IP: 192.34.20.166. Make sure you're running as Administrator.
+2025-10-01 00:25:14,464 - WARNING - MALICIOUS traffic detected from 192.34.20.166
+2025-10-01 00:25:14,602 - ERROR - Failed to block IP: 192.34.20.166. Make sure you're running as Administrator.
+2025-10-01 00:25:14,608 - WARNING - MALICIOUS traffic detected from 192.34.20.166
+2025-10-01 00:25:14,748 - ERROR - Failed to block IP: 192.34.20.166. Make sure you're running as Administrator.
+2025-10-01 00:25:14,753 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:25:14,889 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:25:14,893 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:25:15,027 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:25:15,030 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:25:15,170 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:25:15,173 - WARNING - MALICIOUS traffic detected from 192.34.20.166
+2025-10-01 00:25:15,315 - ERROR - Failed to block IP: 192.34.20.166. Make sure you're running as Administrator.
+2025-10-01 00:25:15,319 - WARNING - MALICIOUS traffic detected from 192.34.20.166
+2025-10-01 00:25:15,455 - ERROR - Failed to block IP: 192.34.20.166. Make sure you're running as Administrator.
+2025-10-01 00:25:15,459 - WARNING - MALICIOUS traffic detected from 35.223.238.178
+2025-10-01 00:25:15,600 - ERROR - Failed to block IP: 35.223.238.178. Make sure you're running as Administrator.
+2025-10-01 00:25:16,217 - INFO - Firewall stopped
+2025-10-01 00:27:02,154 - INFO - Loading AI model...
+2025-10-01 00:27:02,651 - INFO - 
+🚀 Starting AI Firewall...
+2025-10-01 00:27:02,652 - INFO - 📡 Detected active interface: Wi-Fi
+2025-10-01 00:27:02,652 - INFO - 🛑 Press Ctrl+C to stop
+
+2025-10-01 00:27:11,993 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:27:12,162 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:27:12,181 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:27:12,323 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:27:12,331 - WARNING - MALICIOUS traffic detected from 10.146.218.208
+2025-10-01 00:27:12,477 - ERROR - Failed to block IP: 10.146.218.208. Make sure you're running as Administrator.
+2025-10-01 00:27:12,487 - WARNING - MALICIOUS traffic detected from 10.146.218.208
+2025-10-01 00:27:12,645 - ERROR - Failed to block IP: 10.146.218.208. Make sure you're running as Administrator.
+2025-10-01 00:27:14,600 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:27:14,782 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:27:14,913 - WARNING - MALICIOUS traffic detected from 35.223.238.178
+2025-10-01 00:27:15,067 - ERROR - Failed to block IP: 35.223.238.178. Make sure you're running as Administrator.
+2025-10-01 00:27:15,925 - WARNING - MALICIOUS traffic detected from 35.223.238.178
+2025-10-01 00:27:16,128 - ERROR - Failed to block IP: 35.223.238.178. Make sure you're running as Administrator.
+2025-10-01 00:27:18,029 - WARNING - MALICIOUS traffic detected from 35.223.238.178
+2025-10-01 00:27:18,203 - ERROR - Failed to block IP: 35.223.238.178. Make sure you're running as Administrator.
+2025-10-01 00:27:19,401 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:27:19,585 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:27:20,147 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:27:20,325 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:27:20,334 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:27:20,530 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:27:20,537 - WARNING - MALICIOUS traffic detected from 10.146.218.208
+2025-10-01 00:27:20,710 - ERROR - Failed to block IP: 10.146.218.208. Make sure you're running as Administrator.
+2025-10-01 00:27:20,716 - WARNING - MALICIOUS traffic detected from 10.146.218.208
+2025-10-01 00:27:20,867 - ERROR - Failed to block IP: 10.146.218.208. Make sure you're running as Administrator.
+2025-10-01 00:27:20,875 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:27:21,044 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:27:21,054 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:27:21,204 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:27:35,969 - INFO - Firewall stopped
+2025-10-01 00:27:53,191 - INFO - Loading AI model...
+2025-10-01 00:27:53,730 - INFO - 
+🚀 Starting AI Firewall...
+2025-10-01 00:27:53,731 - INFO - 📡 Detected active interface: Wi-Fi
+2025-10-01 00:27:53,731 - INFO - 🛑 Press Ctrl+C to stop
+
+2025-10-01 00:28:02,088 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:28:02,499 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:28:02,580 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:28:02,947 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:28:02,952 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:28:03,123 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:28:03,129 - WARNING - MALICIOUS traffic detected from 10.146.218.208
+2025-10-01 00:28:03,311 - ERROR - Failed to block IP: 10.146.218.208. Make sure you're running as Administrator.
+2025-10-01 00:28:03,320 - WARNING - MALICIOUS traffic detected from 10.146.218.208
+2025-10-01 00:28:03,572 - ERROR - Failed to block IP: 10.146.218.208. Make sure you're running as Administrator.
+2025-10-01 00:28:03,583 - WARNING - MALICIOUS traffic detected from 10.146.218.208
+2025-10-01 00:28:03,836 - ERROR - Failed to block IP: 10.146.218.208. Make sure you're running as Administrator.
+2025-10-01 00:28:04,194 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:28:04,566 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:28:04,622 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:28:04,929 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:28:05,026 - WARNING - MALICIOUS traffic detected from 52.182.143.208
+2025-10-01 00:28:05,220 - ERROR - Failed to block IP: 52.182.143.208. Make sure you're running as Administrator.
+2025-10-01 00:28:05,224 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:28:05,386 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:28:05,410 - WARNING - MALICIOUS traffic detected from 51.81.254.11
+2025-10-01 00:28:05,564 - ERROR - Failed to block IP: 51.81.254.11. Make sure you're running as Administrator.
+2025-10-01 00:28:05,587 - WARNING - MALICIOUS traffic detected from 51.81.254.11
+2025-10-01 00:28:05,755 - ERROR - Failed to block IP: 51.81.254.11. Make sure you're running as Administrator.
+2025-10-01 00:28:05,785 - WARNING - MALICIOUS traffic detected from 51.81.254.11
+2025-10-01 00:28:05,950 - ERROR - Failed to block IP: 51.81.254.11. Make sure you're running as Administrator.
+2025-10-01 00:28:06,038 - WARNING - MALICIOUS traffic detected from 52.182.143.208
+2025-10-01 00:28:06,224 - ERROR - Failed to block IP: 52.182.143.208. Make sure you're running as Administrator.
+2025-10-01 00:28:06,524 - WARNING - MALICIOUS traffic detected from 51.81.254.11
+2025-10-01 00:28:06,788 - ERROR - Failed to block IP: 51.81.254.11. Make sure you're running as Administrator.
+2025-10-01 00:28:06,907 - WARNING - MALICIOUS traffic detected from 51.81.254.11
+2025-10-01 00:28:07,157 - ERROR - Failed to block IP: 51.81.254.11. Make sure you're running as Administrator.
+2025-10-01 00:28:07,183 - WARNING - MALICIOUS traffic detected from 51.81.254.11
+2025-10-01 00:28:07,454 - ERROR - Failed to block IP: 51.81.254.11. Make sure you're running as Administrator.
+2025-10-01 00:28:07,488 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:28:07,669 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:28:07,677 - WARNING - MALICIOUS traffic detected from 10.146.218.146
+2025-10-01 00:28:07,852 - ERROR - Failed to block IP: 10.146.218.146. Make sure you're running as Administrator.
+2025-10-01 00:28:07,878 - WARNING - MALICIOUS traffic detected from 52.182.143.208
+2025-10-01 00:28:08,030 - ERROR - Failed to block IP: 52.182.143.208. Make sure you're running as Administrator.
+2025-10-01 00:28:08,041 - WARNING - MALICIOUS traffic detected from 10.146.218.208
+2025-10-01 00:28:08,212 - ERROR - Failed to block IP: 10.146.218.208. Make sure you're running as Administrator.
+2025-10-01 00:28:08,219 - WARNING - MALICIOUS traffic detected from 10.146.218.208
+2025-10-01 00:28:08,382 - ERROR - Failed to block IP: 10.146.218.208. Make sure you're running as Administrator.
+2025-10-01 00:28:08,469 - WARNING - MALICIOUS traffic detected from 51.81.254.11
+2025-10-01 00:28:08,646 - ERROR - Failed to block IP: 51.81.254.11. Make sure you're running as Administrator.
+2025-10-01 00:28:09,671 - INFO - Firewall stopped
